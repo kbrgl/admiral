@@ -1,3 +1,5 @@
+**note: As of [Admiral PR#2](https://github.com/sector-f/admiral/pull/2), my changes have been merged into Admiral itself**
+
 # Admiral
 
 An asynchronous bar wrapper written in Rust
